@@ -16,8 +16,8 @@
 > apt-get upgrade
 > pkg install git
 > pkg install bash
-> git clone https://github.com/MrK4ZUT0/botwa
-> cd botwa
+> git clone https://github.com/BlackGopal/Gopal-BOT
+> cd Gopal-BOT
 > bash install.sh
 > node index.js
 ```
