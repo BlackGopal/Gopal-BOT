@@ -52,7 +52,7 @@ limitawal = '20'
 cr = '*FADHIL BOT*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6288221608614@s.whatsapp.net","6283102650464@s.whatsapp.net"] //ganti nomor lu
+const ownerNumber = ["6287850698887@s.whatsapp.net","6287850698887@s.whatsapp.net"] //ganti nomor lu
 /************************************/
 
        
