@@ -44,15 +44,15 @@ const vcard = 'BEGIN:VCARD\n' //GANTI NO DAN NAMA DIBAWAH INI JADI PUNYA LU
             + 'VERSION:3.0\n' //JANGAN HILANGKAN CREDIT
             + 'FN:Fadhil Graphy\n' //PENGEMBANG BY :
             + 'ORG: Pengembang Fadhil Bot;\n' //MYBOT TEAM
-            + 'TEL;type=CELL;type=VOICE;waid=6288221608614:+62 882-2160-8614\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6287850698887:+62 878-5069-8887\n' 
             + 'END:VCARD' //SCRIPT ORI FROM MAHANKBARBAR
 prefix = '#'
 blocked = []   
 limitawal = '20'
-cr = '*FADHIL BOT*'
+cr = '*GOPAL BOT*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6288221608614@s.whatsapp.net","6283102650464@s.whatsapp.net"] //ganti nomor lu
+const ownerNumber = ["6287850698887@s.whatsapp.net","6287850698887@s.whatsapp.net"] //ganti nomor lu
 /************************************/
 
        
